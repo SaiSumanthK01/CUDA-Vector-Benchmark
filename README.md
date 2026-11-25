@@ -132,6 +132,3 @@ See [results/RESULTS.md](results/RESULTS.md) (table, findings and charts) and `r
 - Compare against cuBLAS/Thrust and add WebGPU/GLSL implementations.
 - Add CI (build-only on GitHub Actions) and a regression threshold on bandwidth.
 
-## License
-
-MIT
