@@ -1,0 +1,10 @@
+^C:\USERS\SUNKU\DOWNLOADS\CUDA-VECTOR-BENCHMARK (1)\CUDA-VECTOR-BENCHMARK\BUILD-VS\CMAKEFILES\730A3F26CB067FA7A0F6DEA2D3ADD2D2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark" "-BC:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs/cuda_vector_benchmark.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sunku\Downloads\cuda-vector-benchmark (1)\cuda-vector-benchmark\build-vs\CMakeFiles\730a3f26cb067fa7a0f6dea2d3add2d2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{73DEF227-809D-32D8-ABE0-5A310E75D498}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

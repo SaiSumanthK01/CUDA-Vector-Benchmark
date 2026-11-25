@@ -1,0 +1,10 @@
+^C:\USERS\SUNKU\DOWNLOADS\CUDA-VECTOR-BENCHMARK (1)\CUDA-VECTOR-BENCHMARK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark" "-BC:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs" --check-stamp-file "C:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

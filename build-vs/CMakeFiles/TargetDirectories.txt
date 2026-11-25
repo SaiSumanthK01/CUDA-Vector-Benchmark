@@ -1,0 +1,3 @@
+C:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs/CMakeFiles/cuda_vector_benchmark.dir
+C:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/sunku/Downloads/cuda-vector-benchmark (1)/cuda-vector-benchmark/build-vs/CMakeFiles/ZERO_CHECK.dir
